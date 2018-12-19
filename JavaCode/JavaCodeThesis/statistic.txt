@@ -1,0 +1,1 @@
+Total Tweets Processed:449.0::Total amount of retweets:181.0::Percentage of retweets:0.40311804008908686
