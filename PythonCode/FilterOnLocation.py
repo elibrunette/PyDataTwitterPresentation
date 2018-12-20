@@ -39,6 +39,6 @@ if __name__ == '__main__':
     stream = Stream(auth, l)
     
 	#filters the data based on the bounding box below
-	loc = [-132.604601, 23.273509, -63.399011, 49.803863]
-    stream.filter(coordinates = loc)
+    loc = [-132.604601, 23.273509, -63.399011, 49.803863]
+    stream.filter(locations = loc)
     
