@@ -11,16 +11,9 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class processTwitterStream {
-
-	/*
-	private static String _filePath = "G:/CSCDCourses/CSCD 599/PythonCode/twitterText.txt";
-	private static String _outputFile = "G:/CSCDCourses/CSCD 599/processedTwitterData.csv"; 
-	private static String _badOutputFile = "G:/CSCDCourses/CSCD 599/badProccedTwitterData.csv"; 
-	private static String _statistics = "G:/CSCDCourses/CSCD 599/statistic.txt";
-	*/
 	
 	//TODO Change me!
-	private static String _filePath = "C:/Users/ebrunette/Documents/Presentation/PyDataTwitterPresentation/PythonCode/twitterText.txt";
+	private static String _filePath = "C:/Users/ebrunette/Documents/Presentation/PyDataTwitterPresentation/DataBackup/MoreData/twitterText.txt";
 	private static String _outputFile = "C:/Users/ebrunette/Documents/Presentation/PyDataTwitterPresentation/JavaCode/JavaCodeThesis/processedTwitterData.csv";
 	private static String _badOutputFile = "C:/Users/ebrunette/Documents/Presentation/PyDataTwitterPresentation/JavaCode/JavaCodeThesis/badProccedTwitterData.csv";
 	private static String _statistics = "C:/Users/ebrunette/Documents/Presentation/PyDataTwitterPresentation/JavaCode/JavaCodeThesis/statistic.txt";
